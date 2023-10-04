@@ -1,9 +1,10 @@
 name: phase-mender-color
 displayName: Phase Mender Color
-author: ostsot2
+author: ostost2
 description: '''
     Brings back the old mender color when phased
 '''
 hidden: true
 version: timeless
 minGameVersion: 146
+repo: ostost2/phase-mender-color
