@@ -1,0 +1,8 @@
+name: phase-mender-color
+displayName: Phase Mender Color
+description: '''
+    Brings back the old mender color when phased
+'''
+hidden: true
+version: timeless
+minGameVersion: 146
