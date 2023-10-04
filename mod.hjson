@@ -1,5 +1,6 @@
 name: phase-mender-color
 displayName: Phase Mender Color
+author: ostsot2
 description: '''
     Brings back the old mender color when phased
 '''
